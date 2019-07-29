@@ -1,0 +1,37 @@
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.20.0.4. Set the 'ServerName' directive globally to suppress this message
+[Sun Jul 28 18:21:38.379745 2019] [mpm_prefork:notice] [pid 7] AH00163: Apache/2.4.25 (Debian) PHP/7.1.20 configured -- resuming normal operations
+[Sun Jul 28 18:21:38.388513 2019] [core:notice] [pid 7] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.20.0.5. Set the 'ServerName' directive globally to suppress this message
+[Sun Jul 28 18:35:55.927653 2019] [core:warn] [pid 7] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Jul 28 18:35:55.964515 2019] [mpm_prefork:notice] [pid 7] AH00163: Apache/2.4.25 (Debian) PHP/7.1.20 configured -- resuming normal operations
+[Sun Jul 28 18:35:55.964612 2019] [core:notice] [pid 7] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.20.0.5. Set the 'ServerName' directive globally to suppress this message
+[Sun Jul 28 18:44:38.593243 2019] [mpm_prefork:notice] [pid 7] AH00163: Apache/2.4.25 (Debian) PHP/7.1.20 configured -- resuming normal operations
+[Sun Jul 28 18:44:38.594056 2019] [core:notice] [pid 7] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.20.0.5. Set the 'ServerName' directive globally to suppress this message
+[Sun Jul 28 18:45:52.806801 2019] [core:warn] [pid 7] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Jul 28 18:45:52.820682 2019] [mpm_prefork:notice] [pid 7] AH00163: Apache/2.4.25 (Debian) PHP/7.1.20 configured -- resuming normal operations
+[Sun Jul 28 18:45:52.820852 2019] [core:notice] [pid 7] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Sun Jul 28 21:23:03.389123 2019] [autoindex:error] [pid 8] [client 172.20.0.1:34352] AH01276: Cannot serve directory /var/www/html/feed/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Sun Jul 28 21:25:59.574162 2019] [autoindex:error] [pid 9] [client 172.20.0.1:34376] AH01276: Cannot serve directory /var/www/html/feed/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Sun Jul 28 21:26:00.478046 2019] [autoindex:error] [pid 9] [client 172.20.0.1:34376] AH01276: Cannot serve directory /var/www/html/feed/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.20.0.5. Set the 'ServerName' directive globally to suppress this message
+[Sun Jul 28 21:27:24.212662 2019] [core:warn] [pid 7] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Jul 28 21:27:24.223938 2019] [mpm_prefork:notice] [pid 7] AH00163: Apache/2.4.25 (Debian) PHP/7.1.20 configured -- resuming normal operations
+[Sun Jul 28 21:27:24.224037 2019] [core:notice] [pid 7] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Sun Jul 28 21:27:59.125876 2019] [autoindex:error] [pid 8] [client 172.20.0.1:34442] AH01276: Cannot serve directory /var/www/html/feed/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Sun Jul 28 21:28:10.699993 2019] [autoindex:error] [pid 11] [client 172.20.0.1:34440] AH01276: Cannot serve directory /var/www/html/feed/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Sun Jul 28 21:39:07.130777 2019] [autoindex:error] [pid 10] [client 172.20.0.1:34624] AH01276: Cannot serve directory /var/www/html/feed/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Sun Jul 28 21:39:07.867836 2019] [autoindex:error] [pid 10] [client 172.20.0.1:34624] AH01276: Cannot serve directory /var/www/html/feed/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Sun Jul 28 21:39:08.405837 2019] [autoindex:error] [pid 10] [client 172.20.0.1:34624] AH01276: Cannot serve directory /var/www/html/feed/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Sun Jul 28 21:39:09.046525 2019] [autoindex:error] [pid 10] [client 172.20.0.1:34624] AH01276: Cannot serve directory /var/www/html/feed/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Sun Jul 28 21:39:09.305183 2019] [autoindex:error] [pid 10] [client 172.20.0.1:34624] AH01276: Cannot serve directory /var/www/html/feed/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Sun Jul 28 21:39:09.455861 2019] [autoindex:error] [pid 10] [client 172.20.0.1:34624] AH01276: Cannot serve directory /var/www/html/feed/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Sun Jul 28 21:40:09.940787 2019] [autoindex:error] [pid 11] [client 172.20.0.1:34666] AH01276: Cannot serve directory /var/www/html/feed/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.20.0.5. Set the 'ServerName' directive globally to suppress this message
+[Mon Jul 29 01:09:56.807581 2019] [core:warn] [pid 7] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Jul 29 01:09:56.816251 2019] [mpm_prefork:notice] [pid 7] AH00163: Apache/2.4.25 (Debian) PHP/7.1.20 configured -- resuming normal operations
+[Mon Jul 29 01:09:56.816345 2019] [core:notice] [pid 7] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.21.0.4. Set the 'ServerName' directive globally to suppress this message
+[Mon Jul 29 02:18:49.217136 2019] [mpm_prefork:notice] [pid 7] AH00163: Apache/2.4.25 (Debian) PHP/7.1.20 configured -- resuming normal operations
+[Mon Jul 29 02:18:49.225181 2019] [core:notice] [pid 7] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
